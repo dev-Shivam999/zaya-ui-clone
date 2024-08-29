@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.zaya li {
+    margin: 10px 0px;
+}
+
+.zaya li a {
+    color: whitesmoke;
+    font-size: 18px;
+    font-weight: 300;
+
+}
+.l1l{
+    display: none;
+}
+.la:hover .l1l{
+    display: block;
+}
